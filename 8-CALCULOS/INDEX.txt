@@ -1,0 +1,9 @@
+Librería	Utilidad
+SymPy		Matemáticas simbólicas y álgebra.
+SciPy		Métodos científicos y numéricos.
+Numba		Acelerar cálculos en Python.
+JAX		Cálculo numérico y diferenciación automática.
+Mathematics (math)	Funciones matemáticas básicas.
+Pint		Trabajar con magnitudes y unidades físicas.
+QuantLib	Matemáticas financieras.
+SimPy		Simulación de eventos discretos.

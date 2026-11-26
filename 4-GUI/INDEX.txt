@@ -1,0 +1,7 @@
+Librería	Utilidad
+Tkinter		Crear interfaces gráficas sencillas.
+CustomTkinter	Interfaces modernas basadas en Tkinter.
+PyQt6		Aplicaciones de escritorio profesionales.
+PySide6		Interfaces gráficas con Qt.
+Kivy		Aplicaciones multiplataforma y táctiles.
+Dear PyGui	Interfaces gráficas rápidas y modernas.

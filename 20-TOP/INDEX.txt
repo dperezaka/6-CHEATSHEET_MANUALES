@@ -1,0 +1,21 @@
+Nº	Librería	Especialidad
+1	Pandas		Análisis de datos
+2	NumPy		Matemáticas
+3	Matplotlib	Gráficos
+4	Seaborn		Estadística visual
+5	Plotly		Gráficos interactivos
+6	Scikit-learn	Machine Learning
+7	SciPy		Cálculo científico
+8	Tkinter		Interfaces gráficas
+9	CustomTkinter	Interfaces modernas
+10	PySide6		Aplicaciones de escritorio
+11	Requests	Peticiones web
+12	BeautifulSoup4	Web scraping
+13	Selenium	Automatización web
+14	SQLAlchemy	Bases de datos
+15	FastAPI		Desarrollo de APIs
+16	OpenCV		Procesamiento de imágenes
+17	Pillow		Edición de imágenes
+18	PyAutoGUI	Automatización
+19	OpenPyXL	Excel
+20	Streamlit	Aplicaciones de datos

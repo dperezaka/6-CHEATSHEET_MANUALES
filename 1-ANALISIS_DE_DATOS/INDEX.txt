@@ -1,0 +1,10 @@
+Librería	Utilidad
+Pandas		Manipulación y análisis de datos mediante tablas (DataFrames).
+NumPy		Operaciones matemáticas, matrices y cálculos numéricos.
+Polars		Análisis de datos rápido, alternativa a Pandas.
+SciPy		Cálculos científicos, optimización y estadística.
+Statsmodels	Análisis estadístico y modelos matemáticos.
+Dask		Procesamiento de grandes volúmenes de datos.
+PyArrow		Gestión de datos y formatos como Parquet y Arrow.
+OpenPyXL	Leer, modificar y crear archivos Excel.
+xlwings		Automatización de Excel desde Python.

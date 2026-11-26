@@ -1,0 +1,11 @@
+Librería	Utilidad
+OS		Gestionar archivos, directorios y sistema operativo.
+Pathlib		Manipulación de rutas y archivos.
+Shutil		Copiar, mover y eliminar archivos.
+Subprocess	Ejecutar programas y comandos del sistema.
+PyAutoGUI	Automatizar teclado, ratón y pantalla.
+Pyperclip	Gestionar el portapapeles.
+Schedule	Programar tareas periódicas.
+Watchdog	Detectar cambios en archivos y carpetas.
+Keyboard	Automatizar y detectar pulsaciones de teclado.
+PyWin32		Interactuar con funciones de Windows.

@@ -1,0 +1,6 @@
+Librería	Utilidad
+Pygame		Crear videojuegos 2D.
+Panda3D		Desarrollo de videojuegos y gráficos 3D.
+Arcade		Desarrollo de videojuegos 2D.
+PyOpenGL	Acceso a OpenGL para gráficos 3D.
+Ursina		Crear juegos y entornos 3D.

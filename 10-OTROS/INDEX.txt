@@ -1,0 +1,17 @@
+Librería	Utilidad
+JSON		Leer y escribir datos JSON.
+CSV		Trabajar con archivos CSV.
+Datetime	Gestionar fechas y horas.
+Logging		Registrar eventos y errores.
+Re		Expresiones regulares.
+Typing		Añadir tipado al código.
+Pydantic	Validar y estructurar datos.
+Pillow (PIL)	Editar y procesar imágenes.
+ReportLab	Generar documentos PDF.
+python-docx	Crear y modificar documentos Word.
+python-pptx	Crear presentaciones PowerPoint.
+python-telegram-bot	Crear bots de Telegram.
+python-dotenv	Gestionar variables de entorno.
+pytest		Realizar pruebas de código.
+Rich		Mostrar información y tablas en terminales de forma atractiva.
+TQDM		Mostrar barras de progreso.

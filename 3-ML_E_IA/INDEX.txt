@@ -1,0 +1,12 @@
+Librería	Utilidad
+Scikit-learn	Machine Learning tradicional.
+TensorFlow	Redes neuronales y Deep Learning.
+PyTorch		Deep Learning e investigación en IA.
+Keras		Construcción sencilla de redes neuronales.
+XGBoost		Modelos predictivos basados en árboles.
+LightGBM	Machine Learning de alto rendimiento.
+CatBoost	Modelos predictivos con variables categóricas.
+Hugging Face Transformers	Modelos de lenguaje, NLP e IA generativa.
+OpenCV		Visión artificial y procesamiento de imágenes.
+NLTK		Procesamiento del lenguaje natural.
+spaCy		Procesamiento avanzado del lenguaje natural.

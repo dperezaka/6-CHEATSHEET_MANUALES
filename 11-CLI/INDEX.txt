@@ -1,0 +1,14 @@
+Librería	Uso
+questionary	Crear prompts interactivos en CLI (texto, contraseñas, confirmaciones, menús con flechas, selección múltiple, autocompletado, rutas y validación), con soporte para formularios (prompt), saltos condicionales y asyncio.
+Typer		Parsear argumentos, opciones y subcomandos de CLI usando type hints de Python con ayuda automática e integración nativa con Rich.
+Click		Parsear argumentos y construir CLIs robustos, componibles y extensibles con múltiples niveles de comandos.
+argparse	Parsear argumentos de línea de comandos desde la librería estándar de Python sin dependencias externas.
+Fire		Convertir automáticamente funciones, clases o diccionarios de Python en interfaces de línea de comandos.
+InquirerPy	Crear menús y preguntas interactivas en terminal (basado en prompt_toolkit), con soporte para búsqueda difusa (fuzzy search).
+prompt_toolkit	Construir interfaces interactivas de bajo nivel en terminal, como REPL propios, historial de comandos o atajos de teclado personalizados.
+Rich		Formatear salida en terminal (tablas, paneles, sintaxis coloreada, Markdown, árboles, tracebacks, barras de progreso) y pedir prompts básicos (Prompt, Confirm, IntPrompt).
+tqdm		Añadir barras de progreso rápidas y ligeras a bucles o iterables con bajo impacto en rendimiento.
+colorama	Asegurar compatibilidad uniforme de códigos de color ANSI en consola entre Windows, macOS y Linux.
+yaspin / halo	Mostrar spinners animados en terminal durante tareas en segundo plano o esperas.
+Textual		Desarrollar aplicaciones TUI completas a pantalla completa en terminal con diseño tipo CSS, widgets reactivos y soporte de ratón.
+urwid		Crear interfaces de consola clásicas en entornos Linux/Unix.

@@ -1,0 +1,9 @@
+Librería	Utilidad
+Matplotlib	Crear gráficos de todo tipo.
+Seaborn		Gráficos estadísticos más elaborados.
+Plotly		Gráficos interactivos.
+Bokeh		Visualizaciones interactivas para navegadores.
+Altair		Visualización declarativa de datos.
+Dash		Crear dashboards interactivos.
+Streamlit	Crear aplicaciones y dashboards de datos rápidamente.
+Folium		Crear mapas interactivos.

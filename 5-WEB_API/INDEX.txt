@@ -1,0 +1,10 @@
+Librería	Utilidad
+Django		Framework web completo.
+Flask		Framework web ligero.
+FastAPI		Crear APIs modernas y rápidas.
+Requests	Realizar peticiones HTTP.
+httpx		Peticiones HTTP síncronas y asíncronas.
+BeautifulSoup4	Extraer información de páginas web.
+Scrapy		Web scraping avanzado.
+Selenium	Automatizar navegadores.
+Playwright	Automatización moderna de navegadores.

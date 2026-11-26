@@ -1,0 +1,8 @@
+Librería	Utilidad
+SQLAlchemy	Conectar Python con bases de datos mediante ORM y SQL.
+SQLite3		Trabajar con bases de datos SQLite.
+Psycopg		Conectar con PostgreSQL.
+PyMySQL		Conectar con MySQL.
+PyMongo		Conectar con MongoDB.
+Redis-py	Trabajar con Redis.
+DuckDB		Consultas analíticas sobre datos.
